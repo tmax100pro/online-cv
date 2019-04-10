@@ -60,21 +60,17 @@ career-profile:
 
 education:
     - degree: MSc in Digital Applications and Innovation
-      university: Ionian University
+      university: Ionian University, Department of Informatics
       time: 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Fields that were examined:
 
-          - Robotics
+          - Robotics and Programming
           - Big Data Analytics
           - Mobile Applications
 
-    - degree: BSc in Audio and Visual Arts
-      university: Ionian University
+    - degree: BSc and MSc in Audio and Visual Arts
+      university: Ionian University, Department of Audio and Visual Arts
       time: 2016
       details: |
         My thessis was associated with
@@ -83,8 +79,8 @@ education:
           - Experimental Multimedia
 
 experiences:
-    - role: Digital Applications and Analytics Manager
-      time: 2015 - Present
+    - role: Digital Applications and Data Analytics Manager
+      time: 2018 - Present
       company: Casa Parlante Museum
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -100,9 +96,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Digital Applications Manager
+      time: 2015 - 2017
+      company: Casa parlante Museum
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -113,8 +109,8 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Augmented Reality Tour Creator
-      time: 2012 - 2014
+    - role: Trainee in Digital Applications and Augmented Reality 
+      time: 2014 - 2014
       company: Casa Parlante Museum
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -178,7 +174,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Google ads and Analytics
+      - name: Google Ads and Analytics
         level: 65%
 
       - name: Photography
