@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Georgios Marios Dimakidis
     tagline: MSc Digital Applications and Innovation
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 100100gmd.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: c18dima@ionio.gr
@@ -38,10 +38,10 @@ sidebar:
       - item: Photography
         link:
 
-      - item: Snowboarding
+      - item: Image-Video Editing
         link:
 
-      - item: Cooking
+      - item: Augmented Reality
         link:
 
 career-profile:
