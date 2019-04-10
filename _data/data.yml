@@ -80,9 +80,9 @@ education:
           - Experimental Multimedia
 
 experiences:
-    - role: Manager
+    - role: Digital Applications and Analytics Manager
       time: 2015 - Present
-      company: Casa Parlante
+      company: Casa Parlante Museum
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,9 +110,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
+    - role: Augmented Reality Tour Creator
       time: 2012 - 2014
-      company: Amazon, London
+      company: Casa Parlante Museum
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -175,23 +175,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Google ads and Analytics
+        level: 65%
+
+      - name: Photography
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Adobe Premiere
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 30%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Aurasma
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Adobe photoshop
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
